@@ -1,28 +1,23 @@
 {
-  "title": "Obsidian Crucible",
+  "name": "swn",
+  "title": "Obsidian crucible",
+  "description": "<p>Why hide in the dark when you can take light from others</p>",
+  "authors": [],
+  "flags": {},
   "version": "1.0.0",
-  "packs": [
-    {
-      "label": "Class Abilities",
-      "type": "Item",
-      "name": "class-abilities",
-      "path": "packs/class-abilities.db",
-      "system": "swnr",
-      "private": false,
-      "flags": {}
-    }
-  ],
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [],
   "system": "swnr",
+  "dependencies": [],
+  "socket": false,
+  "protected": false,
   "background": "OC/background.png",
-  "coreVersion": "10.291",
-  "nextSession": "2022-11-25T18:30:00.000Z",
+  "coreVersion": "9.269",
+  "nextSession": "2023-06-30T17:30:00.000Z",
   "resetKeys": false,
   "safeMode": false,
-  "systemVersion": "0.7.1",
-  "id": "test-swn",
-  "compatibility": {
-    "minimum": "10",
-    "verified": "10.291"
-  },
-  "description": "<p>DIT IS DE KAPOTTE VERISE. MOCHT JE IETS MISSEN PING ME DAN EVEN</p><p>https://play.peterland.nl/</p><p>ga hier naar toe voor de goeie versie</p>"
+  "systemVersion": "0.7.1"
 }
